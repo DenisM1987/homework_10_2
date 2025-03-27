@@ -1,0 +1,42 @@
+# Файлы IDE и ОС
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Python кэш и скомпилированные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+.env/
+.env.local
+.env*.local
+
+# Файлы зависимостей
+pip-delete-this-directory.txt
+pip-selfcheck.json
+Poetry.lock
+Pipfile.lock
+
+# Тестовые отчеты и логи
+htmlcov/
+.coverage
+*.log
+*.sqlite
+
+# Конфигурационные файлы
+*.cfg
+*.ini
+
+# Файлы сборки
+dist/
+build/
+*.egg-info/
+*.egg
