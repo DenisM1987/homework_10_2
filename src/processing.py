@@ -14,8 +14,7 @@ def filter_by_state(sample_transactions):
 
 
 def sort_by_date(sample_transactions):
-    sorted_asc = sort_by_date(sample_transactions,
-                              ascending=True)
+    sorted_asc = sort_by_date(sample_transactions, ascending=True)
     dates = [t["date"] for t in sorted_asc]
     assert dates == ["2023-02-20T09:45:00", "2023-03-15T10:30:00",
                      "2023-04-01T12:00:00", "2023-04-10T14:15:00"]
