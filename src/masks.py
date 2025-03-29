@@ -4,6 +4,7 @@ def get_mask_card_number(card_number: str) -> str:
         raise ValueError("Номер карты слишком короткий")
     return f"{card_number[:4]} {card_number[4:6]}** **** {card_number[-4:]}"
 
+
 def get_mask_account(account: str) -> str:
     """Маскирует номер счета, оставляя последние 4 цифры"""
     if not account or len(account) < 4:
