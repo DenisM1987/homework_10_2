@@ -1,5 +1,6 @@
 import pytest
-from src.widget import mask_account_card, get_date
+
+from src.widget import get_date, mask_account_card
 
 
 @pytest.mark.parametrize("input_str, expected", [
@@ -8,7 +9,7 @@ from src.widget import mask_account_card, get_date
     ("MasterCard 1234567812345678", "MasterCard 1234 56** **** 5678"),
     ("МИР 1234567890123456", "МИР 1234 56** **** 3456"),
 ])
-def mask_account_card(input_str, expected):
+def test_mask_account_card(input_str, expected):
     assert mask_account_card(input_str) == expected
 
 
@@ -17,5 +18,5 @@ def mask_account_card(input_str, expected):
     ("2022-12-31T23:59:59", "31.12.2022"),
     ("2021-01-01T00:00:00", "01.01.2021"),
 ])
-def get_date(date_str, expected):
+def test_get_date(date_str, expected):
     assert get_date(date_str) == expected
