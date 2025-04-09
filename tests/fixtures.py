@@ -1,10 +1,8 @@
-from typing import Any, Dict, List
-
 import pytest
 
 
 @pytest.fixture
-def sample_transactions() -> List[Dict[str, Any]]:
+def sample_transactions():
     return [
         {
             "id": 939719570,
@@ -12,11 +10,11 @@ def sample_transactions() -> List[Dict[str, Any]]:
             "date": "2018-06-30T02:08:58.425572",
             "operationAmount": {
                 "amount": "9824.07",
-                "currency": {"name": "USD", "code": "USD"},
+                "currency": {"name": "USD", "code": "USD"}
             },
             "description": "Перевод организации",
             "from": "Счет 75106830613657916952",
-            "to": "Счет 11776614605963066702",
+            "to": "Счет 11776614605963066702"
         },
-        # ... (остальные транзакции из примера)
+        # ... другие транзакции из примера
     ]
