@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="842a76e4-9b50-4967-aa08-991300dfc2bb" name="Changes" comment="homework_11_1_edit_1" />
+    <list default="true" id="842a76e4-9b50-4967-aa08-991300dfc2bb" name="Changes" comment="homework_11_1_edit_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -110,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744216960721</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="homework_11_1_edit_2">
+      <option name="closed" value="true" />
+      <created>1744275575814</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744275575814</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +154,7 @@
     <MESSAGE value="homework_10_2_edit" />
     <MESSAGE value="homework_10_2_edit_1" />
     <MESSAGE value="homework_11_1_edit_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_11_1_edit_1" />
+    <MESSAGE value="homework_11_1_edit_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_11_1_edit_2" />
   </component>
 </project>
