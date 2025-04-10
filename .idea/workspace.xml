@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="842a76e4-9b50-4967-aa08-991300dfc2bb" name="Changes" comment="homework_11_1_edit_1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/homework_10_2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework_11_1" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DenisM1987&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:DenisM1987/homework_10_2.git&quot;,
+    &quot;accountId&quot;: &quot;ecd34a17-32f0-4215-9128-1b178d497d94&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2v053GwIrSATAykAx9BCUoMd043" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.pytest in test_masks.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/homework__10__1",
+    "last_opened_file_path": "C:/Users/mden1/Desktop/Study/homework_10_2/homework_11_1"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mden1\Desktop\Study\homework_10_2\homework_11_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_masks.py" />
+        <item itemvalue="Python tests.pytest in C:/Users/mden1/Desktop/Study/homework_10_2/tests/test_masks.py" />
+        <item itemvalue="Python tests.pytest in test_masks.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fc1d50d2d915-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="842a76e4-9b50-4967-aa08-991300dfc2bb" name="Changes" comment="" />
+      <created>1743268949739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743268949739</updated>
+    </task>
+    <task id="LOCAL-00001" summary="homework_10_2_edit">
+      <option name="closed" value="true" />
+      <created>1743269149539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743269149539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework_10_2_edit_1">
+      <option name="closed" value="true" />
+      <created>1743515661915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743515661915</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework_10_2_edit_1">
+      <option name="closed" value="true" />
+      <created>1744050209118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744050209118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework_11_1_edit_1">
+      <option name="closed" value="true" />
+      <created>1744216960721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744216960721</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/homework_11_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework_10_2_edit" />
+    <MESSAGE value="homework_10_2_edit_1" />
+    <MESSAGE value="homework_11_1_edit_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_11_1_edit_1" />
+  </component>
+</project>
